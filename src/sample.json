@@ -1,0 +1,26 @@
+[{"title":"DDR X", "platform":"Arcade","packages":{
+    "title":"Original Songs",
+    "simfiles":{
+        "title": "SUPER SONG",
+        "padType": "pad",
+        "formats":{
+            "mp3":"true",
+            "BN":"true",
+            "BG":"true"
+        },
+        "single":{
+            "beginner":"2",
+            "light":"4",
+            "standard":"7",
+            "heavy":"10",
+            "challenge":"8"        
+        },
+        "double":{
+            "beginner":"2",
+            "light":"4",
+            "standard":"7",
+            "heavy":"10",
+            "challenge":"8"        
+        }
+    }
+}}]
